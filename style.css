@@ -57,7 +57,7 @@ a:visited {
 }
 
 .title {
-    font-size: 2rem;
+    font-size: 1.8rem;
     text-transform: uppercase;
 }
 
@@ -96,7 +96,7 @@ a:visited {
 }
 
 .sub-title {
-    font-size: 4rem;
+    font-size: 2.5rem;
     background-color: white;
     padding: 1rem;
     border-radius: 1rem;
@@ -104,6 +104,7 @@ a:visited {
     -webkit-box-shadow: 14px 20px 23px -5px rgba(0,0,0,0.75);
     -moz-box-shadow: 14px 20px 23px -5px rgba(0,0,0,0.75);
     box-shadow: 14px 20px 23px -5px rgba(0,0,0,0.75);
+    margin: 0 4rem;
 }
 
 /* LIST */
